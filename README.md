@@ -1,6 +1,6 @@
 # Data-Cleaning-Portfolio-Project
 
-In this Project I utilized SQL to perform a series of Data Cleaning operations. 
+In this Project I utilized SQL to perform a series of data cleaning operations. 
 
 ## Context
 
